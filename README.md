@@ -2,6 +2,8 @@
 
 This repository contains the source code for the Coding Club website submission of Full Stack Web Dev Workshop at IIT Guwahati.
 
+Access the website here: [codingclubodp.vercel.app](https://codingclubodp.vercel.app)
+
 ## Highlights
 
 - Mobile friendly.
@@ -9,7 +11,17 @@ This repository contains the source code for the Coding Club website submission 
 - Carousel (sliding images) in homepage.
 - Gradient background.
 - Used badges in events list to represent current state of a specific event.
-- Lighthouse report (to be announced).
+- Lighthouse report
+    - Mobile
+        - Performance: `97`
+        - Accessibility: `100`
+        - Best Practices: `100`
+        - SEO: `91` (may change in production)
+    - Desktop
+        - Performance: `95`
+        - Accessibility: `100`
+        - Best Practices: `100`
+        - SEO: `91` (may change in production)
 
 ## Important notes
 - There are some sample text used the the website as a placeholder and will be replaced by actual content in production.
